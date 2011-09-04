@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<phpunit colors="true">
+  <testsuites name="Sample Test Suite">
+    <file>Test.php</file>
+  </testsuites>
+</phpunit>
