@@ -10,7 +10,10 @@
          stopOnFailure="false"
          syntaxCheck="false"
 >
-  <testsuites name="Sample Test Suite">
-    <file>Test.php</file>
+
+  <testsuites>
+    <testsuite name="Sample Test Suite">
+      <file>test/SampleTest.php</file>
+    </testsuite>
   </testsuites>
 </phpunit>
